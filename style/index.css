@@ -1,0 +1,58 @@
+@import url(fooldalSzoveg.css);
+.container img {
+    position: relative;
+    width: 960px;
+    display: block;
+    margin: 30px auto;
+  }
+  .kiskepek img {
+    width: 99px;
+    height: 99px;
+    display: inline;
+  }
+
+  .kiskepek{
+    width: 960px;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .container {
+   
+    position: relative;
+    max-width: 960px; 
+    margin: 0 auto; 
+  }
+
+  h4{
+    width: 960px;
+    display: block;
+    margin: 20px auto;
+  }
+
+.bezs{
+  background-color: #f9eedb;
+  margin-top: 10px;
+  padding-top: 200px;
+  padding-bottom: 70px;
+
+}
+
+h5 {
+  font-size: 12px;
+}
+
+h6 {
+  font-size: 14px;
+}
+
+.felsoLinkek {
+  text-align: center !important;
+  color: black;
+
+}
+
+.felsoLinkek:hover{
+  color: black;
+  text-decoration: underline;
+}

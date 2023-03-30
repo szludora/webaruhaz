@@ -1,0 +1,64 @@
+.content {
+    position: absolute; 
+    bottom: 0; 
+    background: rgb(0, 0, 0); 
+    background: rgba(0, 0, 0, 0.5); 
+    color: #f1f1f1; 
+    width: 200px; 
+    padding: 20px; 
+  }
+  .content1 {
+    bottom: 200px; 
+    right: 20px;
+  }
+  .content2 {
+    bottom: 200px; 
+    right: 20px;
+  }
+  .content3 {
+    top: 200px; 
+    height: 90px;
+    left: 250px;
+  }
+  .content4 {
+    top: 400px; 
+    right: 300px;
+    height: 80px;
+  }
+
+  .contentFeher{
+    position: absolute; 
+    bottom: 0; 
+    color: #f1f1f1; 
+    width: 200px; 
+    padding: 20px;
+    font-family: sans-serif;
+    font-size: 20px;
+  }
+
+  .c1{
+    right: 300px;
+    letter-spacing: 7px;
+    width: 400px;
+    font-weight:900;
+  }
+  .c2{
+    left: 10px;
+    width: 400px;
+    font-weight:900;
+  }
+  .c3{
+    top: 20px;
+    right: 400px;
+    color: black;
+  }
+
+  .c4 {
+    top: 40px;
+    left:30px;
+    color: black;
+  }
+  .c5 {
+    top: 10px;
+    color: black;
+  }
